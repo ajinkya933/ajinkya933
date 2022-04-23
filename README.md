@@ -6,4 +6,4 @@ I am a Cloud Engineer with 4 + years of industry experience. I work in Cloud com
 
 I’m currently involved in setting up production pipelines using Kubeflow, Terraform and Kubernetes. 
 
-<img width="657" alt="Mind Map" src="https://user-images.githubusercontent.com/17012391/164890021-72f7fb37-0a62-47c9-8f53-233ef619136d.png">
+<img width="885" alt="Screenshot 2022-04-23 at 3 48 56 PM" src="https://user-images.githubusercontent.com/17012391/164890443-4168ff85-92e2-43e7-8c8f-cfd52d4212bd.png">
