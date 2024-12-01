@@ -1,6 +1,6 @@
 ### Hello, I’m Ajinkya 
 
-I work in Cloud computing, Kubernetes and MLOps, and I am currently working on setting up infrastructure as a code which runs production pipelines.
+I am a Cloud Engineer with 5 + years of industry experience in Kubernetes and MLOps. I am currently working on setting up infrastructure as a code that runs production pipelines.
 
 <img width="885" alt="Screenshot 2022-04-23 at 3 48 56 PM" src="https://user-images.githubusercontent.com/17012391/164890443-4168ff85-92e2-43e7-8c8f-cfd52d4212bd.png">
 
